@@ -1,0 +1,124 @@
+Name,"Type (Attraction, Food, Entertainment, Character Meet & Greet)",LL (TRUE/FALSE),Single Rider (TRUE/FALSE),Latitude (not needed),Longitude
+Alice in Wonderland,Attraction,FALSE,FALSE,33.813240,-117.918365
+Astro Orbitor,Attraction,FALSE,FALSE,33.812103,-117.918312
+Autopia,Attraction,TRUE,FALSE,33.812592,-117.916365
+Big Thunder Mountain Railroad,Attraction,TRUE,FALSE,33.812662,-117.920369
+Buzz Lightyear Astro Blasters,Attraction,TRUE,FALSE,33.812186,-117.917820
+Casey Jr. Circus Train,Attraction,FALSE,FALSE,33.813751,-117.919230
+Chip ’n’ Dale’s GADGETcoaster,Attraction,FALSE,FALSE,33.815214,-117.919347
+Davy Crockett's Explorer Canoes,Attraction,FALSE,FALSE,33.812481,-117.922071
+Disneyland Monorail,Attraction,FALSE,FALSE,33.812862,-117.916645
+Disneyland Railroad - Main Street,Attraction,FALSE,FALSE,33.809970,-117.918971
+Disneyland Railroad - New Orleans Square,Attraction,FALSE,FALSE,33.811250,-117.921904
+Disneyland Railroad - Mickey's Toontown,Attraction,FALSE,FALSE,33.814822,-117.918656
+Disneyland Railroad - Tomorrowland,Attraction,FALSE,FALSE,33.812467,-117.915894
+The Disneyland Story presenting Great Moments with Mr. Lincoln,Attraction,FALSE,FALSE,33.810289,-117.918584
+Dumbo the Flying Elephant,Attraction,FALSE,FALSE,33.813705,-117.918941
+Finding Nemo Submarine Voyage,Attraction,FALSE,FALSE,33.812792,-117.916834
+Frontierland Shootin' Exposition,Attraction,FALSE,FALSE,33.812232,-117.919870
+Haunted Mainsion,Attraction,TRUE,FALSE,33.811707,-117.922157
+Indiana Jones Adventure,Attraction,TRUE,FALSE,33.811321,-117.920535
+it's a small world,Attraction,TRUE,FALSE,33.814625,-117.917836
+Jungle Cruise,Attraction,FALSE,FALSE,33.811417,-117.920105
+King Arthur Carrousel,Attraction,FALSE,FALSE,33.813409,-117.918977
+Mad Tea Party,Attraction,FALSE,FALSE,33.813444,-117.918321
+The Many Adventures of Winnie the Pooh,Attraction,FALSE,FALSE,33.812525,-117.923135
+Mark Twain Riverboat,Attraction,FALSE,FALSE,33.812200,-117.920600
+Matterhorn Bobsleds,Attraction,TRUE,TRUE,33.813470,-117.917814
+Mickey and Minnie's Runaway Railway,Attraction,TRUE,FALSE,33.815501,-117.918384
+Mickey's House,Attraction,FALSE,FALSE,33.815497,-117.919203
+Millennium Falcon: Smugglers Run,Attraction,TRUE,TRUE,33.814892,-117.921399
+Mr. Toad's Wild Ride,Attraction,FALSE,FALSE,33.813335,-117.918761
+Peter Pan's Flight,Attraction,FALSE,FALSE,33.813114,-117.918854
+Pinocchio's Daring Journey,Attraction,FALSE,FALSE,33.813353,-117.919260
+Pirates of the Caribbean,Attraction,FALSE,FALSE,33.811248,-117.920832
+Roger Rabbit's Car Toon Spin,Attraction,FALSE,FALSE,33.815238,-117.918095
+Sailing Ship Columbia,Attraction,FALSE,FALSE,33.812300,-117.920600
+Sleeping Beauty Castle Walkthrough,Attraction,FALSE,FALSE,33.812817,-117.919072
+Snow White's Enchanted Wish,Attraction,FALSE,FALSE,33.813143,-117.919135
+Space Mountain,Attraction,TRUE,TRUE,33.810976,-117.917483
+Star Tours - The Adventures Continue,Attraction,TRUE,FALSE,33.811995,-117.917980
+Star Wars: Rise of the Resistance,Attraction,TRUE,FALSE,33.813850,-117.923134
+Storybook Land Canal Boats,Attraction,FALSE,FALSE,33.813736,-117.918254
+Walt Disney's Enchanted Tiki Room,Attraction,FALSE,FALSE,33.811772,-117.919619
+Alien Pizza Planet,Food,FALSE,FALSE,33.811731,-117.916899
+Bengal Barbecue,Food,FALSE,FALSE,33.811566,-117.920294
+Blue Bayou Restaurant,Food,FALSE,FALSE,33.811029,-117.921240
+Cafe Orleans,Food,FALSE,FALSE,33.811240,-117.921269
+Café Daisy,Food,FALSE,FALSE,33.815498,-117.918711
+Candy Palace and Candy Kitchen,Food,FALSE,FALSE,33.811326,-117.919080
+Carnation Cafe,Food,FALSE,FALSE,33.811059,-117.919082
+Churros & Lemonade in Critter Country,Food,FALSE,FALSE,33.812390,-117.922526
+Churros at small world Promenade,Food,FALSE,FALSE,33.813811,-117.917867
+Churros near Big Thunder Mountain Railroad,Food,FALSE,FALSE,33.812199,-117.920362
+Churros near Buzz Lightyear Astro Blasters,Food,FALSE,FALSE,33.812122,-117.917514
+Churros near Casey Jr. Circus Train,Food,FALSE,FALSE,33.813691,-117.919421
+Churros near Haunted Mansion,Food,FALSE,FALSE,33.811777,-117.921786
+Churros near Sleeping Beauty Castle,Food,FALSE,FALSE,33.812389,-117.918810
+Churros near Town Square,Food,FALSE,FALSE,33.810331,-117.918823
+Critter Country Fruit Cart,Food,FALSE,FALSE,33.812416,-117.922041
+Docking Bay 7 Food and Cargo,Food,FALSE,FALSE,33.814668,-117.921466
+Edelweiss Snacks,Food,FALSE,FALSE,33.813743,-117.917740
+Fantasyland Fruit Cart,Food,FALSE,FALSE,33.813701,-117.919551
+Galactic Grill,Food,FALSE,FALSE,33.812400,-117.917282
+Gibson Girl Ice Cream Parlor,Food,FALSE,FALSE,33.811129,-117.919089
+The Golden Horseshoe,Food,FALSE,FALSE,33.812058,-117.920312
+Good Boy! Grocers,Food,FALSE,FALSE,33.815356,-117.918714
+Harbour Galley,Food,FALSE,FALSE,33.812061,-117.921946
+Hot Foods near Central Plaza,Food,FALSE,FALSE,33.812194,-117.919149
+Hungry Bear Restaurant,Food,FALSE,FALSE,33.812539,-117.922587
+Jat Kaa's Coolers: J1-KC at Resistance Clearing,Food,FALSE,FALSE,33.813641,-117.922949
+Jat Kaa's Coolers: J2-KC near the Garage,Food,FALSE,FALSE,33.814001,-117.921109
+Jat Kaa's Coolers: J3-KC near Oga's Cantina,Food,FALSE,FALSE,33.814588,-117.920616
+Jolly Holiday Bakery Cafe,Food,FALSE,FALSE,33.811678,-117.919364
+Kat Saka's Kettle,Food,FALSE,FALSE,33.814447,-117.921641
+Lemonade at small world Promenade,Food,FALSE,FALSE,33.813800,-117.918091
+Lemonade near Tomorrowland Expo Center,Food,FALSE,FALSE,33.812096,-117.916898
+Little Red Wagon,Food,FALSE,FALSE,33.811485,-117.918692
+Main Street Fuit Cart,Food,FALSE,FALSE,33.811009,-117.918862
+Market House,Food,FALSE,FALSE,33.810884,-117.918891
+Maurice's Treats,Food,FALSE,FALSE,33.812484,-117.919309
+Milk Stand,Food,FALSE,FALSE,33.814406,-117.920699
+Mint Julep Bar,Food,FALSE,FALSE,33.811169,-117.921672
+Oga's Cantina,Food,FALSE,FALSE,33.814717,-117.920943
+Outdoor Vending Cart near Autopia,Food,FALSE,FALSE,33.812433,-117.916827
+Outdoor Vending Cart near Haunted Mansion,Food,FALSE,FALSE,33.811856,-117.921898
+Outdoor Vending Cart near Plaza Point,Food,FALSE,FALSE,33.811581,-117.918889
+Outdoor Vending Cart near small world Promenade,Food,FALSE,FALSE,33.814077,-117.918074
+Plaza Inn,Food,FALSE,FALSE,33.811694,-117.918504
+Pooh Corner,Food,FALSE,FALSE,33.812265,-117.923226
+Popcorn at small world Promenade,Food,FALSE,FALSE,33.813638,-117.918012
+Popcorn near Central Plaza,Food,FALSE,FALSE,33.811974,-117.919093
+Popcorn near City Hall,Food,FALSE,FALSE,33.810318,-117.919110
+Popcorn near Fantasyland Theatre,Food,FALSE,FALSE,33.814338,-117.918277
+Popcorn near Haunted Mansion,Food,FALSE,FALSE,33.811582,-117.921602
+Popcorn near Mark Twain Riverboat,Food,FALSE,FALSE,33.812034,-117.920476
+Popcorn near Star Trader,Food,FALSE,FALSE,33.812008,-117.917133
+Pretzels at small world Promenade,Food,FALSE,FALSE,33.814130,-117.918083
+Pretzels near Big Thunder Mountain Railroad,Food,FALSE,FALSE,33.813074,-117.920861
+Pretzels near Star Tours - The Adventures Continue,Food,FALSE,FALSE,33.812016,-117.917472
+Rancho del Zocalo Restaurante,Food,FALSE,FALSE,33.812519,-117.919819
+Red Rose Taverne,Food,FALSE,FALSE,33.813500,-117.919516
+Refreshment Corner,Food,FALSE,FALSE,33.811443,-117.919078
+River Belle Terrace,Food,FALSE,FALSE,33.811622,-117.920601
+Ronto Roasters,Food,FALSE,FALSE,33.814394,-117.921497
+Royal Street Veranda,Food,FALSE,FALSE,33.811217,-117.920947
+Ship to Shore Marketplace,Food,FALSE,FALSE,33.812319,-117.920546
+Stage Door Café,Food,FALSE,FALSE,33.811886,-117.920308
+Tiana's Palace,Food,FALSE,FALSE,33.811221,-117.921601
+Tiki Juice Bar,Food,FALSE,FALSE,,
+Tomorrowland Skyline Terrace,Food,FALSE,FALSE,33.811855,-117.916894
+The Tropical Hideaway,Food,FALSE,FALSE,33.811573,-117.919630
+Tropical Imports,Food,FALSE,FALSE,33.811597,-117.920111
+Troubadour Tavern,Food,FALSE,FALSE,33.814467,-117.918786
+The Bootstrappers,Entertainment,FALSE,FALSE,,
+The Dapper Dans,Entertainment,FALSE,FALSE,,
+Disneyland Band,Entertainment,FALSE,FALSE,,
+Fantasy Faire,Entertainment,FALSE,FALSE,,
+Flag Retreat Ceremony,Entertainment,FALSE,FALSE,,
+Golden Horseshoe Piano Player,Entertainment,FALSE,FALSE,,
+Jambalaya Jazz Band,Entertainment,FALSE,FALSE,,
+Magic Happens Parade,Entertainment,FALSE,FALSE,,
+Disneyland Fireworks,Entertainment,FALSE,FALSE,,
+Pearly Band,Entertainment,FALSE,FALSE,,
+Storytelling at Royal Theatre,Entertainment,FALSE,FALSE,,
